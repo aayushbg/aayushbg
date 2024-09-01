@@ -120,9 +120,17 @@
 </table>
 
 # 📊 Competitive Programming Stats:
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aayush_bg)](https://codeforces.com/profile/aayush_bg)
-![CodeChef Stats](https://codechef-readme-stats.onrender.com/aayush_bg)
-![LeetCode Stats](https://leetcard.jacoblin.cool/aayush_bg?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap)
+
+<div align="center">
+  <!-- First row with two images -->
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=aayush_bg" alt="Codeforces Stats" height="300px" style="vertical-align: middle; margin-right: 10px;">
+  <img src="https://codechef-readme-stats.onrender.com/aayush_bg" alt="CodeChef Stats" height="300px" style="vertical-align: middle;">
+</div>
+<br>
+<!-- Second row with one image -->
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/aayush_bg?theme=wtf&font=Noto%20Sans%20Bengali&ext=heatmap" alt="LeetCode Stats" width="50%" height="auto">
+</div>
 
 
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
