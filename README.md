@@ -181,34 +181,5 @@
 </div>
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-# ⚡Activity Graph
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushbg&theme=tokyo-night"/> 
-</div>
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
-
- # 🔝 Top Contributed Repo & Leetcode
-<table>
-  <tr>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=aayushbg&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-    </td>
-    <td>
-<!--     <img src="https://leetcard.jacoblin.cool/aayushbg_56?ext=activity&ext=heatmap&ext=contest" alt="Leetcode Stats" /> -->
-      <img src="https://leetcard.jacoblin.cool/aayush_bg?ext=activity" alt="Leetcode Stats" />
-    </td>
-  </tr>
-</table>
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
-
-# ⌛ GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayushbg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
-
-## ✍️ Random Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=aayushbg&icon=0&color=0)](https://visitcount.itsvg.in)
