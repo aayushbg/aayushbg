@@ -1,4 +1,3 @@
-![LinkedIn Headline](https://media.licdn.com/dms/image/v2/D4D16AQGYbXJt3SyHdA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1720511283446?e=1730937600&v=beta&t=j4zbsqICfFri-dgeICkrT2AscjbSi-joIX7twieACmA)
 # 💫 About Me:
 ### Specialist @Codeforces (max. 1532) | 4⭐ @CodeChef (max. 1912) | LeetCode (max. 1762) | Ex SWE Intern @Reliance | JPMorganChase Code for Good 2024 Finalist | MERN Stack
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Competitive Programmer from **India** 🇮🇳
@@ -21,7 +20,7 @@
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
 
-# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b> 💻
+# <b> Skills</b> 💻
 
 <table align="center" class="table table-dark">
   <tr bg-dark>
