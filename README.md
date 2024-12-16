@@ -5,7 +5,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **MERN Stack** 
 
 
-<h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Socials </h1>
+<h1>Socials </h1>
 <p align="left">
   <a href="https://x.com/aayush_bg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aayush-gondaliya" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/aayush-gondaliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aayush Gondaliya" height="30" width="40" /></a>
