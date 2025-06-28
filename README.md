@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aayush Gondaliya
 
-🎓 **Computer Engineering student** at [Pandit Deendayal Energy University](https://www.pdpu.ac.in/), passionate about full-stack development, backend systems, and competitive programming.
+🎓 **Computer Engineering student** at [Pandit Deendayal Energy University](https://www.pdpu.ac.in/), passionate about backend systems, system design and competitive programming.
 
 ---
 
